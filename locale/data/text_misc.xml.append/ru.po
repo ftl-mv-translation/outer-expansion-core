@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/text_misc.xml.append:4
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_unlock\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:5
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_2_unlock\"]"
+msgstr ""
+"Доберитесь до сектора 5 на корабле типа А, чтобы разблокировать этот "
+"корабль."
+
+#: src-en/data/text_misc.xml.append:6
+msgid ""
+"data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_3_unlock\"]"
+msgstr ""
+"Доберитесь до сектора 5 на корабле типа Б или пройдите игру на корабле типа "
+"A, чтобы разблокировать этот корабль."

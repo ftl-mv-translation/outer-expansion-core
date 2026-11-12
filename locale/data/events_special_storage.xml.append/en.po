@@ -1,0 +1,30 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_storage.xml.append:5
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
+"append:choice/text"
+msgstr "Broadside Artillery."
+
+#: src-en/data/events_special_storage.xml.append:12
+msgid ""
+"data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
+"append:choice/text"
+msgstr "(Drive Hacker) Summon an Outer Expansion MV vessel."
+
+#: src-en/data/events_special_storage.xml.append:18
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_OE_BOSS_SPAWNER_LIST\"]/text"
+msgstr ""
+"You check what ships are available to be summoned currently. Summoning an MV"
+" boss will take 7{."
+
+#: src-en/data/events_special_storage.xml.append:20
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_OE_BOSS_SPAWNER_LIST\"]/choice[@req=\"pilot\"]/text"
+msgstr "Nevermind, do something else."

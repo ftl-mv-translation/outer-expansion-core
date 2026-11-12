@@ -1,0 +1,276 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:29
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE\"]/class"
+msgstr "叛军侧舷炮"
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE\"]/name"
+msgstr "侧舷"
+
+#: src-en/data/blueprints.xml.append:31
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE\"]/desc"
+msgstr "这是一艘围绕侧舷巨炮系统设计的强大战舰。该舰的巨炮系统采用模块化设计，可实现多种不同的火炮配置组合"
+
+#: src-en/data/blueprints.xml.append:108
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/title"
+msgstr "穿刺激光巨炮"
+
+#: src-en/data/blueprints.xml.append:109
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/short"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:110
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:111
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/tooltip"
+msgstr "巨炮：一门充能相对较慢的爆裂激光，能够穿透一层护盾。"
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/title"
+msgstr "穿刺激光巨炮"
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/short"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:145
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/tooltip"
+msgstr "巨炮：一门充能相对较慢的爆裂激光，能够穿透一层护盾。"
+
+#: src-en/data/blueprints.xml.append:176
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/title"
+msgstr "穿刺激光巨炮"
+
+#: src-en/data/blueprints.xml.append:177
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/short"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:178
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/desc"
+msgstr "开发人员信息"
+
+#: src-en/data/blueprints.xml.append:179
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/tooltip"
+msgstr "巨炮：一门充能相对较慢的爆裂激光，能够穿透一层护盾。"
+
+#: src-en/data/blueprints.xml.append:217
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/title"
+msgstr "爆裂光点巨炮"
+
+#: src-en/data/blueprints.xml.append:218
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/short[1]"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:219
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/short[2]"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/desc"
+msgstr "[基础冷却：20]一门强大的爆裂光点巨炮，能够依次发射多发光点光束。"
+
+#: src-en/data/blueprints.xml.append:221
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/tooltip"
+msgstr "巨炮：充能一束长而致命的光束，对每个击中舱室造成2点伤害，但只能部分穿透一层护盾。"
+
+#: src-en/data/blueprints.xml.append:244
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/title"
+msgstr "'短剑'光点"
+
+#: src-en/data/blueprints.xml.append:245
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/short"
+msgstr "短剑光点"
+
+#: src-en/data/blueprints.xml.append:246
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/desc"
+msgstr "升级版的光点武器，可造成3点伤害。"
+
+#: src-en/data/blueprints.xml.append:247
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/tooltip"
+msgstr "每舱室 1 点伤害的光束武器"
+
+#: src-en/data/blueprints.xml.append:269
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:270
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/short"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:271
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/desc"
+msgstr "[基础冷却时间：20] 发射两枚导弹，造成巨额伤害且永不落空。"
+
+#: src-en/data/blueprints.xml.append:272
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/tooltip"
+msgstr "巨炮：发射两枚导弹，造成巨额伤害且绝不落空。"
+
+#: src-en/data/blueprints.xml.append:307
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/title"
+msgstr "离子空雷巨炮"
+
+#: src-en/data/blueprints.xml.append:308
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/short"
+msgstr "巨炮"
+
+#: src-en/data/blueprints.xml.append:309
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/desc"
+msgstr "[基础冷却时间：20] 发射一连串电离空雷，造成船体伤害并使系统离子伤害。"
+
+#: src-en/data/blueprints.xml.append:310
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/tooltip"
+msgstr "巨炮：发射一连串电离空雷，造成船体伤害并使系统离子伤害。"
+
+#: src-en/data/blueprints.xml.append:346
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_2\"]/class"
+msgstr "叛军侧舷炮"
+
+#: src-en/data/blueprints.xml.append:347
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_2\"]/name"
+msgstr "餐边柜"
+
+#: src-en/data/blueprints.xml.append:348
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_2\"]/desc"
+msgstr "这是一艘围绕侧舷巨炮系统设计的强大战舰。该舰的巨炮系统采用模块化设计，可实现多种不同的火炮配置组合。"
+
+#: src-en/data/blueprints.xml.append:424
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/title"
+msgstr "MFK激光"
+
+#: src-en/data/blueprints.xml.append:425
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/short"
+msgstr "MFK激光"
+
+#: src-en/data/blueprints.xml.append:426
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/desc"
+msgstr "[基础冷却时间：25/21/17] 一道缓慢蓄能的激光，共发射4发子弹，对空舱室造成双倍伤害。"
+
+#: src-en/data/blueprints.xml.append:427
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/tooltip"
+msgstr "巨炮：一种装填缓慢的激光武器，可发射4发子弹，对空舱室造成双倍伤害。"
+
+#: src-en/data/blueprints.xml.append:466
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/title"
+msgstr "MFK导弹"
+
+#: src-en/data/blueprints.xml.append:467
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/short"
+msgstr "MFK导弹"
+
+#: src-en/data/blueprints.xml.append:468
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/desc"
+msgstr "[基础冷却时间：25/21/17] 发射3枚导弹，每枚造成1点伤害和1点额外系统伤害。"
+
+#: src-en/data/blueprints.xml.append:469
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/tooltip"
+msgstr "巨炮：发射3枚导弹；每枚造成1点伤害；可穿透所有护盾。"
+
+#: src-en/data/blueprints.xml.append:510
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/title"
+msgstr "MFK光束"
+
+#: src-en/data/blueprints.xml.append:511
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/short"
+msgstr "MFK光束"
+
+#: src-en/data/blueprints.xml.append:512
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/desc"
+msgstr "[基础冷却时间：25/21/17] 释放一道带有长尾迹的光束，造成2点伤害，对空舱室造成双倍伤害。"
+
+#: src-en/data/blueprints.xml.append:513
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/tooltip"
+msgstr "巨炮：造成2点伤害的光束，尾迹较长，对空舱室造成双倍伤害。"
+
+#: src-en/data/blueprints.xml.append:539
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/title"
+msgstr "MFK离子"
+
+#: src-en/data/blueprints.xml.append:540
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/short"
+msgstr "MFK离子"
+
+#: src-en/data/blueprints.xml.append:542
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/desc"
+msgstr "[基础冷却时间：25/21/17] 一发3连射的离子弹，造成1点离子伤害和1点系统伤害。"
+
+#: src-en/data/blueprints.xml.append:543
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/tooltip"
+msgstr "巨炮：3发离子弹，造成1点离子伤害和1点系统伤害。"
+
+#: src-en/data/blueprints.xml.append:587
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_3\"]/class"
+msgstr "叛军侧舷炮"
+
+#: src-en/data/blueprints.xml.append:588
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_3\"]/name"
+msgstr "水坝"
+
+#: src-en/data/blueprints.xml.append:589
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_3\"]/desc"
+msgstr "这是一艘围绕侧舷巨炮系统设计的强大战舰。该舰的火炮座架经过专门设计，可搭载任何类型的武器。"

@@ -1,0 +1,317 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/blueprints.xml.append:29
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE\"]/class"
+msgstr "Броадсайд повстанцев"
+
+#: src-en/data/blueprints.xml.append:30
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE\"]/name"
+msgstr "Броадсайд"
+
+#: src-en/data/blueprints.xml.append:31
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE\"]/desc"
+msgstr ""
+"Мощный корабль, созданный на основе широкоугольной артиллерии. "
+"Артиллерийская система корабля модульная, что позволяет использовать "
+"несколько различных комбинаций артиллерии."
+
+#: src-en/data/blueprints.xml.append:108
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/title"
+msgstr "Пронзающая лазерная арт."
+
+#: src-en/data/blueprints.xml.append:109
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/short"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:110
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/desc"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:111
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE\"]/tooltip"
+msgstr ""
+"Артиллерия: Относительно медленно заряжающаяся очередь лазеров, способная "
+"пробить один слой щитов."
+
+#: src-en/data/blueprints.xml.append:142
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/title"
+msgstr "Пронзающая лазерная арт."
+
+#: src-en/data/blueprints.xml.append:143
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/short"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:144
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/desc"
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
+
+#: src-en/data/blueprints.xml.append:145
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY\"]/tooltip"
+msgstr ""
+"Артиллерия: Относительно медленно заряжающаяся очередь лазеров, способная "
+"пробить один слой щитов."
+
+#: src-en/data/blueprints.xml.append:176
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/title"
+msgstr "Пронзающая лазерная арт."
+
+#: src-en/data/blueprints.xml.append:177
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/short"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:178
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/desc"
+msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
+
+#: src-en/data/blueprints.xml.append:179
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_PIERCE_ENEMY_OFFSET\"]/tooltip"
+msgstr ""
+"Артиллерия: Относительно медленно заряжающаяся очередь лазеров, способная "
+"пробить один слой щитов."
+
+#: src-en/data/blueprints.xml.append:217
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/title"
+msgstr "Импульсная точечная арт."
+
+#: src-en/data/blueprints.xml.append:218
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/short[1]"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:219
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/short[2]"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:220
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 20] Мощная точечная лучевая артиллерия, способная "
+"последовательно выпускать несколько точечных лучей."
+
+#: src-en/data/blueprints.xml.append:221
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_FOCUS\"]/tooltip"
+msgstr ""
+"Артиллерия: стреляет длинным смертоносным лучом, который наносит 2 единицы "
+"урона за отсек, однако может проникнуть только сквозь один слой щита, как "
+"луч \"Алебарда\"."
+
+#: src-en/data/blueprints.xml.append:244
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/title"
+msgstr "Точечный луч \"Мизерикорд\""
+
+#: src-en/data/blueprints.xml.append:245
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/short"
+msgstr "Мизерикорд"
+
+#: src-en/data/blueprints.xml.append:246
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/desc"
+msgstr "Улучшенный точечный луч, наносящий 3 урона."
+
+#: src-en/data/blueprints.xml.append:247
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"OE_BROADSIDE_FOCUS_BEAM\"]/tooltip"
+msgstr "Один урон за каждый отсек в который попадет."
+
+#: src-en/data/blueprints.xml.append:269
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/title"
+msgstr ""
+
+#: src-en/data/blueprints.xml.append:270
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/short"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:271
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 20] Выпускает пару ракет, которые наносят большой урон"
+" и никогда не промахиваются."
+
+#: src-en/data/blueprints.xml.append:272
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MISSILE\"]/tooltip"
+msgstr ""
+"Артиллерия: Выпускает пару ракет, которые наносят большой урон и никогда не "
+"промахиваются."
+
+#: src-en/data/blueprints.xml.append:307
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/title"
+msgstr "Ионная минометная артиллерия"
+
+#: src-en/data/blueprints.xml.append:308
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/short"
+msgstr "Артиллерия"
+
+#: src-en/data/blueprints.xml.append:309
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 20] Выпускает залп ионизированных мин, которые наносят"
+" урон корпусу и ионизируют системы."
+
+#: src-en/data/blueprints.xml.append:310
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE_MINE\"]/tooltip"
+msgstr ""
+"Артиллерия: Выпускает залп ионизированных мин, которые наносят урон корпусу "
+"и ионизируют системы."
+
+#: src-en/data/blueprints.xml.append:346
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_2\"]/class"
+msgstr "Броадсайд повстанцев"
+
+#: src-en/data/blueprints.xml.append:347
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_2\"]/name"
+msgstr "Боковая Панель"
+
+#: src-en/data/blueprints.xml.append:348
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_2\"]/desc"
+msgstr ""
+"Мощный корабль, созданный на основе широкоугольной артиллерии. "
+"Артиллерийская система корабля модульная, что позволяет использовать "
+"несколько различных комбинаций артиллерии."
+
+#: src-en/data/blueprints.xml.append:424
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/title"
+msgstr "Лазерная установка МФК"
+
+#: src-en/data/blueprints.xml.append:425
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/short"
+msgstr "Лазерная установка МФК"
+
+#: src-en/data/blueprints.xml.append:426
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 25/21/17] Медленно заряжающийся лазер, производящий 4 "
+"выстрела и наносящих двойной урон по пустым отсекам."
+
+#: src-en/data/blueprints.xml.append:427
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_LASER\"]/tooltip"
+msgstr ""
+"Артиллерия: Медленно заряжающийся лазер, производящий 4 выстрела и наносящих"
+" двойной урон по пустым отсекам."
+
+#: src-en/data/blueprints.xml.append:466
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/title"
+msgstr "Ракетная установка МФК"
+
+#: src-en/data/blueprints.xml.append:467
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/short"
+msgstr "Ракета МФК"
+
+#: src-en/data/blueprints.xml.append:468
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 25/21/17] Выпускает 3 ракеты, которые наносят 1 урон и"
+" 1 дополнительный урон системе."
+
+#: src-en/data/blueprints.xml.append:469
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_MISSILE\"]/tooltip"
+msgstr "Артиллерия: Выпускает 3 ракеты; 1 урон каждая; пробивает все щиты."
+
+#: src-en/data/blueprints.xml.append:510
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/title"
+msgstr "Лучевая установка МФК"
+
+#: src-en/data/blueprints.xml.append:511
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/short"
+msgstr "Лучевая установка МФК"
+
+#: src-en/data/blueprints.xml.append:512
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 25/21/17] Длинный луч, наносящий 2 урона, наносит "
+"двойной урон по пустым отсекам."
+
+#: src-en/data/blueprints.xml.append:513
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_BEAM\"]/tooltip"
+msgstr ""
+"Артиллерия: Длинный луч, наносящий 2 урона, наносит двойной урон по пустым "
+"отсекам."
+
+#: src-en/data/blueprints.xml.append:539
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/title"
+msgstr "Ионная установка МФК"
+
+#: src-en/data/blueprints.xml.append:540
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/short"
+msgstr "Ионная установка МФК"
+
+#: src-en/data/blueprints.xml.append:542
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/desc"
+msgstr ""
+"[Базовая перезарядка: 25/21/17] 3 выстрела ионами, наносящие 1 ионный урон и"
+" 1 системный урон."
+
+#: src-en/data/blueprints.xml.append:543
+msgid ""
+"data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_OE_BROADSIDE2_ION\"]/tooltip"
+msgstr ""
+"Артиллерия: 3 ионных выстрела, наносящего 1 ионный урон и 1 системный урон."
+
+#: src-en/data/blueprints.xml.append:587
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_3\"]/class"
+msgstr "Броадсайд повстанцев"
+
+#: src-en/data/blueprints.xml.append:588
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_3\"]/name"
+msgstr "Заграждение"
+
+#: src-en/data/blueprints.xml.append:589
+msgid ""
+"data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_OE_BROADSIDE_3\"]/desc"
+msgstr ""
+"Мощный корабль, сконструированный вокруг бортовой артиллерии. Артиллерийские"
+" установки этого корабля специально разработаны для размещения любого типа "
+"вооружения."
