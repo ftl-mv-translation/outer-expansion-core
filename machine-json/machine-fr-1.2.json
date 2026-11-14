@@ -1,0 +1,876 @@
+{
+  "lang": "fr",
+  "originalLang": "en",
+  "version": "1.2",
+  "translation": {
+    "Rebel Broadsider": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vaisseau d'artillerie rebelle"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Broadside": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le Broadside"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A powerful ship designed around it's broadside mounted artillery. This ship's artillery system are modular allowing it to have a number of different combinations of artillery": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Un vaisseau puissant conçu autour de son artillerie montée en bordée. Le système d'artillerie de ce vaisseau est modulaire, lui permettant d'avoir plusieurs combinaisons d'artillerie différentes"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Pierce Laser Artillery": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie laser perforante"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "[Base cooldown: 20] A slow charging dual laser cannon that fires 2 lasers per burst per barrel for a total of 4 shots per charge.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 20] Un canon laser double à chargement lent qui tire 2 lasers par rafale et par canon, pour un total de 4 tirs par charge."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: A relatively slow charging burst of lasers capable of piercing one layer of shields.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Une rafale de lasers à chargement relativement lent capable de percer une couche de boucliers."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "YOU SHOULD NEVER SEE THIS": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Burst Pinpoint Artillery": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie à aiguillon rafale"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "[Base cooldown: 20] A powerful burst pinpoint artillery weapon that is able to fire multiple pinpoint beams in sequence.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 20] Une puissante arme d'artillerie à aiguillon capable de tirer plusieurs rayons de précision en séquence."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: Powers a long and deadly beam that does 2 damage per room hit, but like the Halberd can only partially pierce through one shield layer.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "'Misericorde' Pinpoint": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "'Misericord'": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "An upgraded Pinpoint weapon that does 3 damage.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "One damage per room beam weapon": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Arme à rayon infligeant un point de dégât par pièce"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Dual Missile Artillery": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie à missile double"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "[Base cooldown: 20] Fires a pair of missiles which do heavy damage and never miss.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 20] Tire une paire de missiles qui infligent de lourds dégâts et ne manquent jamais leur cible."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: Fires a pair of missiles which do heavy damage and never miss.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Tire une paire de missiles qui infligent de lourds dégâts et ne manquent jamais leur cible."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Minelauncher Artillery": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie lance-mines ionique"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "[Base cooldown: 20] Fires a burst of ionized mines which do hull damage and ionize systems.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 20] Tire une rafale de mines ionisées qui infligent des dégâts à la coque et ionisent les systèmes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: Fires a burst of ionized mines which do hull damage and ionize systems.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Tire une rafale de mines ionisées qui infligent des dégâts à la coque et ionisent les systèmes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Sideboard": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le Sideboard"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A powerful ship designed around it's broadside mounted artillery. This ship's artillery system are modular allowing it to have a number of different combinations of artillery.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Un vaisseau puissant conçu autour de son artillerie montée en bordée. Le système d'artillerie de ce vaisseau est modulaire, lui permettant d'avoir plusieurs combinaisons d'artillerie différentes."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "MFK Laser": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "[Base Cooldown: 25/21/17] A slow charging laser which fires 4 shots that deal double damage to empty rooms.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 25/21/17] Un laser à chargement lent qui tire 4 coups infligeant des dégâts doubles aux pièces vides."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: A slow charging laser which fires 4 shots that deal double damage to empty rooms.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Un laser à chargement lent qui tire 4 coups infligeant des dégâts doubles aux pièces vides."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "MFK Missile": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "MFK M.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "[Base Cooldown: 25/21/17] Fires 3 missiles that do 1 damage and 1 extra system damage.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 25/21/17] Tire 3 missiles qui infligent 1 point de dégât et 1 dégât système supplémentaire."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: Fires 3 missiles; 1 damage each; pierces all shields.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Tire 3 missiles ; 1 dégât chacun ; perce tous les boucliers."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "MFK Beam": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "[Base Cooldown: 25/21/17] 2 damage beam with a long trail, deals double damage to empty rooms.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 25/21/17] Rayon de 2 dégâts avec une longue traînée, inflige des dégâts doubles aux pièces vides."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: 2 damage beam with a long trail, deals double damage to empty rooms.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Rayon de 2 dégâts avec une longue traînée, inflige des dégâts doubles aux pièces vides."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "MFK Ion": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "[Base Cooldown: 25/21/17] A 3 shot ion that does 1 ion damage and 1 system damage.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "[Temps de recharge de base : 25/21/17] Un ion à 3 tirs qui inflige 1 dégât ionique et 1 dégât système."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Artillery: A 3 shot ion that does 1 ion damage and 1 system damage.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie : Un ion à 3 tirs qui inflige 1 dégât ionique et 1 dégât système."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Barrage": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le Barrage"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "A powerful ship designed around it's broadside mounted artillery. This ship's artillery mounts have been specifically designed to mount any sort of weapon.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Un vaisseau puissant conçu autour de son artillerie montée en bordée. Les supports d'artillerie de ce vaisseau ont été spécifiquement conçus pour monter n'importe quel type d'arme."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Outer Expansion Redux\n\tClick to see more info.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Outer Expansion Redux\n\tCliquez pour voir plus d'informations."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Outer Expansion Redux\nDeveloped by: Arc\nCurrently Enabled.\n\nAdds new races, crew, equipment and more.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Outer Expansion Redux\nDéveloppé par : Arc\nActuellement activé.\n\nAjoute de nouvelles races, membres d'équipage, équipements et plus encore."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Choose an artillery for slot 1": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Choisir une artillerie pour l'emplacement 1"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Laser Artillery.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie laser."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    ".": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Beam Artillery.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie à rayon."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Missile Artillery (max: 2).": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie à missile (max : 2)."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Ion Artillery.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie ionique."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You choose the laser.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous choisissez le laser."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Continue...": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "You choose the beam.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous choisissez le rayon."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You choose the missile.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous choisissez le missile."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You choose the ion.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous choisissez l'ion."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Choose an artillery for slot 2": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Choisir une artillerie pour l'emplacement 2"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Choose an artillery for slot 3": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Choisir une artillerie pour l'emplacement 3"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You arrive at the beacon face to face with a strange rebel ship, it's unlike any design you've seen before. You don't have time to ponder as it turns it's weapons on you.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous arrivez à la balise face à un étrange vaisseau rebelle, au design inédit. Vous n'avez pas le temps de réfléchir car il tourne ses armes vers vous."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The fiery red of the explosions complements the orange hull of the Rebel ship. Satisfied with your handiwork, you scrap the ship.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "With the Rebel vessel now clear of its crew, you are free to scrap the remains.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Install the slot 1 weapon into one of the artillery systems, previously installed weapon will be lost.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Installer l'arme de l'emplacement 1 dans l'un des systèmes d'artillerie, l'arme précédemment installée sera perdue."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nevermind.": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Install it into Artillery slot 1 (left most)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Installer dans l'emplacement d'artillerie 1 (tout à gauche)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You install the weapon into the artillery system.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous installez l'arme dans le système d'artillerie."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install it into Artillery slot 2 (middle)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Installer dans l'emplacement d'artillerie 2 (milieu)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Install it into Artillery slot 3 (right most)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Installer dans l'emplacement d'artillerie 3 (tout à droite)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You need a weapon in your weapon system to install.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous devez avoir une arme dans votre système d'armement pour l'installer."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "\"Aaaaah. Ssstranger ssstranger, any ssself ressspecting Renegade knowssss they need sssome gear if they're going to ssssurvive.\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "\"Aaaaah. Ssstranger ssstranger, I might normally sssell gunssss, but I've gathered quite the ssstock of dronesss lately. Maybe you could ussse one?\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "\"Aaaaah. Ssstranger ssstranger, wasss to a few assorted sssectorsss reccently, picked up ssssome rare weaponssss that might interessst ya'.\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "\"Aaaaah. Ssstranger ssstranger, got sssome rare thingsss on sssale, ssstranger!\"": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Broadside Artillery.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Artillerie en bordée."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "(Drive Hacker) Summon an Outer Expansion MV vessel.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "(Hacker de générateur) Invoquer un vaisseau MV d'Outer Expansion."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "You check what ships are available to be summoned currently. Summoning an MV boss will take 7{.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Vous vérifiez quels vaisseaux peuvent être invoqués actuellement. Invoquer un boss MV coûtera 7{."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Nevermind, do something else.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Laissez tomber, faites autre chose."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "OUTER EXPANSION": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "OUTER EXPANSION"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "OE LOOT": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "BUTIN OE"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The Outer Cluster": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "L'amas extérieur"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Volley of Abuse": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Volée d'abus"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "???": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Destroy the Rebel Broadsider in sector 7.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Détruire le vaisseau d'artillerie rebelle dans le secteur 7."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Unique Crew (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Équipage unique (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Loot Transports (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Transporteurs de butin (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Renegade Cruisers (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Croiseurs renégats (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Music (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Musique (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Thest's Boons (OE)": {
+      "advanced": {},
+      "deepl": "",
+      "machine": "",
+      "done": true
+    },
+    "Corby's Grants (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Faveurs de Corby (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Wakeson's Blessings (OE)": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Bénédictions de Wakeson (OE)"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Reports are coming out of the sectors closest to Node 17 (Sector 7) that a strange rebel ship is patrolling their fleet.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Des rapports provenant des secteurs les plus proches du Nœud 17 (Secteur 7) indiquent qu'un étrange vaisseau rebelle patrouille dans leur flotte."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Get to Sector 5 with The Type A to unlock this ship.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Atteindre le secteur 5 avec le Type A pour débloquer ce vaisseau."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Get to Sector 5 with The Type B or beat the game with The Type A to unlock this ship.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Atteindre le secteur 5 avec le Type B ou finir le jeu avec le Type A pour débloquer ce vaisseau."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "Outer Expansion: Core": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Outer Expansion : Noyau"
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    },
+    "The core of the Outer Expansion, this mod is required for the sub mods to function.": {
+      "advanced": {
+        "12": {
+          "model": "gemini-3.1-flash-lite",
+          "text": "Le noyau d'Outer Expansion, ce mod est requis pour que les sous-mods fonctionnent."
+        }
+      },
+      "deepl": "",
+      "machine": "",
+      "done": false
+    }
+  }
+}
