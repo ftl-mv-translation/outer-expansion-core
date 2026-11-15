@@ -4,11 +4,21 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-11-15 16:29+0000\n"
+"Last-Translator: Daniil Karpov <daniilpupkov180@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/outer-expansion-"
+"core/datatext_miscxmlappend/ru/>\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2026.11.2\n"
 
 #: src-en/data/text_misc.xml.append:4
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"ship_PLAYER_SHIP_OE_BROADSIDE_unlock\"]"
 msgstr ""
+"Из ближайших к Узлу 17 (Сектор 7) секторов поступают сообщения о том, что "
+"какой-то странный корабль повстанцев патрулирует их флот."
 
 #: src-en/data/text_misc.xml.append:5
 msgid ""
